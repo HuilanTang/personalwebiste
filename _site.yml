@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Huilan Tang"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:ht2448@columbia.edu
+    - icon: fa-github fa-lg
+      href: https://github.com/HuilanTang
+output:
+  html_document:
+     theme: cosmo
