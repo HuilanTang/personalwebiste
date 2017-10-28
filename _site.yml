@@ -11,4 +11,5 @@ navbar:
       href: https://github.com/HuilanTang
 output:
   html_document:
+   theme: flatly
     
